@@ -125,6 +125,7 @@ export function SearchContainer() {
           </h1>
           <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto">
             Find the perfect Instagram reels by searching any username and keyword
+            BTW This works only for public profiles, so sorry you can't stalk your ex
           </p>
         </div>
       </header>
