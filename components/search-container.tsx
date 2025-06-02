@@ -121,7 +121,7 @@ export function SearchContainer() {
       <header className="w-full py-6 px-4 md:py-10 md:px-6 flex flex-col items-center justify-center relative">
         <div className="w-full max-w-5xl mx-auto text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-poppins bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 bg-clip-text text-transparent animate-gradient-x mb-3">
-            ReelFinder
+            ReelsFinder
           </h1>
           <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto">
             Find the perfect Instagram reels by searching any username and keyword
